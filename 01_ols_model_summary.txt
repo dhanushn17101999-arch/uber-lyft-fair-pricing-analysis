@@ -1,0 +1,75 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  price   R-squared:                       0.177
+Model:                            OLS   Adj. R-squared:                  0.177
+Method:                 Least Squares   F-statistic:                     1932.
+Date:                Wed, 19 Aug 2026   Prob (F-statistic):               0.00
+Time:                        15:21:09   Log-Likelihood:            -1.5434e+06
+No. Observations:              431076   AIC:                         3.087e+06
+Df Residuals:                  431027   BIC:                         3.087e+06
+Df Model:                          48                                         
+Covariance Type:            nonrobust                                         
+=======================================================================================================
+                                          coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------------------
+const                                 -11.1392      0.165    -67.696      0.000     -11.462     -10.817
+distance                                2.9579      0.015    194.803      0.000       2.928       2.988
+surge_multiplier                       22.1217      0.132    168.214      0.000      21.864      22.379
+temperature                             0.0018      0.002      0.868      0.385      -0.002       0.006
+cab_type_Uber                           0.0665      0.027      2.475      0.013       0.014       0.119
+hour_1                                 -0.0588      0.090     -0.655      0.512      -0.235       0.117
+hour_2                                 -0.0414      0.090     -0.462      0.644      -0.217       0.134
+hour_3                                 -0.0600      0.090     -0.664      0.507      -0.237       0.117
+hour_4                                  0.0826      0.090      0.920      0.358      -0.093       0.258
+hour_5                                  0.0282      0.093      0.304      0.761      -0.154       0.210
+hour_6                                  0.0165      0.090      0.183      0.855      -0.161       0.194
+hour_7                                  0.0060      0.093      0.064      0.949      -0.177       0.189
+hour_8                                  0.0532      0.094      0.569      0.569      -0.130       0.237
+hour_9                                 -0.0660      0.089     -0.739      0.460      -0.241       0.109
+hour_10                                -0.0777      0.089     -0.877      0.381      -0.251       0.096
+hour_11                                -0.0089      0.089     -0.100      0.920      -0.182       0.165
+hour_12                                -0.0314      0.088     -0.355      0.722      -0.205       0.142
+hour_13                                -0.0228      0.088     -0.258      0.797      -0.196       0.151
+hour_14                                 0.0116      0.088      0.131      0.895      -0.162       0.185
+hour_15                                -0.1371      0.088     -1.554      0.120      -0.310       0.036
+hour_16                                -0.0295      0.088     -0.334      0.738      -0.202       0.143
+hour_17                                -0.0083      0.088     -0.094      0.925      -0.181       0.164
+hour_18                                -0.1833      0.088     -2.075      0.038      -0.356      -0.010
+hour_19                                -0.0418      0.090     -0.462      0.644      -0.219       0.135
+hour_20                                -0.0404      0.091     -0.442      0.658      -0.219       0.139
+hour_21                                -0.0626      0.090     -0.694      0.488      -0.239       0.114
+hour_22                                -0.0263      0.089     -0.295      0.768      -0.201       0.148
+hour_23                                 0.0514      0.087      0.588      0.556      -0.120       0.223
+source_Beacon Hill                     -0.3049      0.065     -4.709      0.000      -0.432      -0.178
+source_Boston University               -1.1572      0.057    -20.292      0.000      -1.269      -1.045
+source_Fenway                          -0.9944      0.056    -17.716      0.000      -1.104      -0.884
+source_Financial District               0.4217      0.066      6.415      0.000       0.293       0.551
+source_Haymarket Square                -0.5252      0.056     -9.405      0.000      -0.635      -0.416
+source_North End                       -0.3517      0.054     -6.554      0.000      -0.457      -0.246
+source_North Station                    0.2701      0.065      4.123      0.000       0.142       0.398
+source_Northeastern University         -1.2925      0.055    -23.362      0.000      -1.401      -1.184
+source_South Station                   -0.8123      0.054    -15.126      0.000      -0.918      -0.707
+source_Theatre District                 0.6416      0.065      9.843      0.000       0.514       0.769
+source_West End                         0.2705      0.065      4.153      0.000       0.143       0.398
+destination_Beacon Hill                -0.2830      0.064     -4.394      0.000      -0.409      -0.157
+destination_Boston University          -1.0004      0.057    -17.640      0.000      -1.112      -0.889
+destination_Fenway                     -1.2088      0.057    -21.312      0.000      -1.320      -1.098
+destination_Financial District          0.3507      0.064      5.453      0.000       0.225       0.477
+destination_Haymarket Square           -0.8021      0.057    -14.183      0.000      -0.913      -0.691
+destination_North End                  -0.9951      0.055    -18.218      0.000      -1.102      -0.888
+destination_North Station               0.2055      0.065      3.177      0.001       0.079       0.332
+destination_Northeastern University    -1.0757      0.055    -19.530      0.000      -1.184      -0.968
+destination_South Station              -0.9237      0.056    -16.615      0.000      -1.033      -0.815
+destination_Theatre District            0.2660      0.065      4.120      0.000       0.139       0.393
+destination_West End                    0.0352      0.064      0.545      0.585      -0.091       0.162
+==============================================================================
+Omnibus:                    22486.866   Durbin-Watson:                   2.000
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            22270.960
+Skew:                           0.513   Prob(JB):                         0.00
+Kurtosis:                       2.566   Cond. No.                     3.01e+16
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 7.71e-25. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.

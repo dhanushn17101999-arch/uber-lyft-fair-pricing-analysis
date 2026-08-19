@@ -1,0 +1,51 @@
+Column,Data_Type,Non_Null_Count,Null_Count
+price,float64,538845,0
+distance,float64,538845,0
+surge_multiplier,float64,538845,0
+temperature,float64,538845,0
+cab_type_Uber,int64,538845,0
+hour_1,int64,538845,0
+hour_2,int64,538845,0
+hour_3,int64,538845,0
+hour_4,int64,538845,0
+hour_5,int64,538845,0
+hour_6,int64,538845,0
+hour_7,int64,538845,0
+hour_8,int64,538845,0
+hour_9,int64,538845,0
+hour_10,int64,538845,0
+hour_11,int64,538845,0
+hour_12,int64,538845,0
+hour_13,int64,538845,0
+hour_14,int64,538845,0
+hour_15,int64,538845,0
+hour_16,int64,538845,0
+hour_17,int64,538845,0
+hour_18,int64,538845,0
+hour_19,int64,538845,0
+hour_20,int64,538845,0
+hour_21,int64,538845,0
+hour_22,int64,538845,0
+hour_23,int64,538845,0
+source_Beacon Hill,int64,538845,0
+source_Boston University,int64,538845,0
+source_Fenway,int64,538845,0
+source_Financial District,int64,538845,0
+source_Haymarket Square,int64,538845,0
+source_North End,int64,538845,0
+source_North Station,int64,538845,0
+source_Northeastern University,int64,538845,0
+source_South Station,int64,538845,0
+source_Theatre District,int64,538845,0
+source_West End,int64,538845,0
+destination_Beacon Hill,int64,538845,0
+destination_Boston University,int64,538845,0
+destination_Fenway,int64,538845,0
+destination_Financial District,int64,538845,0
+destination_Haymarket Square,int64,538845,0
+destination_North End,int64,538845,0
+destination_North Station,int64,538845,0
+destination_Northeastern University,int64,538845,0
+destination_South Station,int64,538845,0
+destination_Theatre District,int64,538845,0
+destination_West End,int64,538845,0

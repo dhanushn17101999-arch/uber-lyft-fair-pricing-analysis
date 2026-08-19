@@ -1,0 +1,73 @@
+route,observation_count,mean_price,median_price,std_price,min_price,max_price,price_range
+North End → Back Bay,8714,20.02,19.5,9.6,3.0,67.0,64.0
+Back Bay → North End,8663,19.96,19.0,10.17,3.0,75.0,72.0
+Beacon Hill → North End,8264,15.74,13.5,7.94,2.5,57.5,55.0
+Financial District → Northeastern University,8220,22.38,20.5,11.38,3.0,89.5,86.5
+North End → Beacon Hill,8196,16.48,16.0,7.84,3.0,55.0,52.0
+Fenway → Financial District,8182,24.12,22.5,12.35,3.0,92.0,89.0
+Boston University → Financial District,8152,24.72,22.5,12.54,3.0,92.0,89.0
+Northeastern University → Financial District,8130,23.13,22.5,11.66,3.0,80.5,77.5
+Financial District → Boston University,8077,26.24,25.5,12.92,3.0,92.0,89.0
+South Station → West End,8064,16.26,15.0,8.03,2.5,57.5,55.0
+Boston University → Theatre District,7964,19.35,18.0,9.79,3.0,75.0,72.0
+Theatre District → Boston University,7953,21.38,19.5,11.45,3.0,89.0,86.0
+Northeastern University → North Station,7897,20.55,19.5,10.52,2.5,80.5,78.0
+North Station → Northeastern University,7886,20.19,19.5,9.97,3.0,80.5,77.5
+South Station → Back Bay,7884,19.66,18.5,9.74,3.0,75.0,72.0
+Haymarket Square → Back Bay,7870,17.34,16.5,8.32,2.5,58.5,56.0
+Fenway → North Station,7862,20.4,19.5,10.53,2.5,80.5,78.0
+Northeastern University → Theatre District,7855,16.74,16.5,8.48,3.0,65.0,62.0
+South Station → Financial District,7847,12.84,10.5,7.89,2.5,55.0,52.5
+Fenway → West End,7787,19.01,17.0,9.48,3.0,75.0,72.0
+West End → Northeastern University,7779,19.53,18.5,9.34,2.5,68.5,66.0
+Beacon Hill → Northeastern University,7779,16.97,16.5,8.37,2.5,62.5,60.0
+Back Bay → Haymarket Square,7712,18.62,16.5,9.37,3.0,67.5,64.5
+West End → Fenway,7710,18.77,17.5,9.05,2.5,65.0,62.5
+Theatre District → Northeastern University,7702,17.57,16.5,8.83,3.0,67.5,64.5
+South Station → Beacon Hill,7699,17.73,16.5,8.69,3.0,65.0,62.0
+Financial District → Fenway,7689,24.3,22.5,11.93,3.0,97.5,94.5
+Boston University → West End,7676,19.6,18.5,10.04,3.0,75.0,72.0
+Back Bay → South Station,7666,18.29,16.5,9.71,2.5,65.0,62.5
+South Station → North Station,7635,16.16,15.0,8.1,2.5,67.5,65.0
+Haymarket Square → Financial District,7609,13.25,11.0,7.54,2.5,43.0,40.5
+Northeastern University → Beacon Hill,7605,17.37,16.5,8.59,3.0,65.0,62.0
+Boston University → North Station,7583,20.94,19.5,10.75,3.0,80.5,77.5
+South Station → Theatre District,7480,14.36,13.5,7.56,2.5,55.0,52.5
+Northeastern University → West End,7479,19.12,17.5,9.79,3.0,80.0,77.0
+Financial District → Haymarket Square,7478,13.67,11.5,7.64,2.5,55.0,52.5
+Northeastern University → Back Bay,7414,14.07,13.0,7.54,2.5,55.0,52.5
+West End → Boston University,7408,18.99,17.5,8.95,3.0,55.0,52.0
+Fenway → Theatre District,7393,18.92,17.0,9.5,3.0,75.0,72.0
+Beacon Hill → Fenway,7377,16.74,15.5,8.32,3.0,62.5,59.5
+Back Bay → Boston University,7373,14.5,13.5,7.83,2.5,55.0,52.5
+North Station → Fenway,7334,19.46,18.5,9.21,3.0,57.5,54.5
+West End → North End,7333,13.73,12.5,7.39,2.5,59.0,56.5
+Beacon Hill → South Station,7331,16.59,15.5,8.33,2.5,57.5,55.0
+West End → South Station,7320,15.78,14.0,7.68,2.5,52.5,50.0
+Haymarket Square → Beacon Hill,7313,13.83,13.0,7.32,2.5,38.5,36.0
+Beacon Hill → Haymarket Square,7276,14.24,13.5,7.49,2.5,55.0,52.5
+Haymarket Square → Theatre District,7272,14.08,13.5,7.29,2.5,47.5,45.0
+Theatre District → Fenway,7271,20.05,19.5,10.23,2.5,80.0,77.5
+North End → West End,7263,13.82,13.0,7.34,2.5,60.5,58.0
+North Station → North End,7235,13.48,11.5,7.5,2.5,56.0,53.5
+Back Bay → Northeastern University,7227,13.62,11.0,7.74,2.5,55.0,52.5
+Fenway → Beacon Hill,7223,17.53,16.5,8.8,3.0,65.0,62.0
+North Station → Boston University,7184,19.83,19.5,9.44,3.0,65.0,62.0
+North Station → South Station,7087,16.03,14.5,7.73,2.5,68.0,65.5
+North End → North Station,7082,13.21,11.0,7.51,2.5,56.0,53.5
+Theatre District → Haymarket Square,7058,15.87,13.5,8.0,2.5,57.5,55.0
+Boston University → Back Bay,7016,14.6,13.5,7.77,2.5,57.5,55.0
+Boston University → Beacon Hill,7010,18.09,16.5,9.21,3.0,65.0,62.0
+Beacon Hill → Boston University,7002,17.06,16.5,8.35,2.5,62.5,60.0
+North End → Financial District,6994,13.76,12.5,7.25,2.5,39.5,37.0
+North End → Theatre District,6963,15.88,14.5,7.53,3.0,47.0,44.0
+Haymarket Square → West End,6937,12.9,10.5,7.61,2.5,61.5,59.0
+Fenway → Back Bay,6906,14.46,13.5,7.86,2.5,55.0,52.5
+Theatre District → South Station,6896,13.53,10.5,8.16,2.5,55.0,52.5
+Theatre District → North End,6850,16.02,14.0,8.15,2.5,57.5,55.0
+Financial District → South Station,6823,13.0,10.5,7.92,2.5,52.5,50.0
+Financial District → North End,6765,13.64,11.5,7.62,2.5,55.0,52.5
+Back Bay → Fenway,6648,14.3,13.5,7.91,3.0,55.0,52.0
+West End → Haymarket Square,6570,13.3,11.0,7.65,2.5,59.0,56.5
+North Station → Haymarket Square,6561,13.15,10.5,7.79,2.5,56.0,53.5
+Haymarket Square → North Station,6382,13.01,10.5,7.76,3.0,56.0,53.0

@@ -1,0 +1,4 @@
+Hypothesis,Prediction,Finding,Status,Key_Caveat
+H1: Revenue Cost,Fairness constraints reduce revenue,10% surge cap → 1.83% revenue loss,SUPPORTED,Only 3.84% of rides affected
+H2: Fairness Improvement,Fairness constraints reduce price variance,Price variance reduction: 16.15%,SUPPORTED,Robust across all routes
+H3: Net Strategic Value,Moderate constraints offset revenue via retention,Mechanism confirmed; retention gains inferred from literature,PROVISIONALLY SUPPORTED,Retention not directly measured

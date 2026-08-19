@@ -1,0 +1,4 @@
+Test,Statistic,P_Value,Result
+Breusch-Pagan,12135.09662608611,0.0,Heteroscedastic
+Durbin-Watson,2.0060966971358996,,No autocorrelation
+Shapiro-Wilk,0.9593210299247183,1.9775108378859417e-90,Non-normal
