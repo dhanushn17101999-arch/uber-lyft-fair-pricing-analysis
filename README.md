@@ -144,7 +144,7 @@ The following large files were generated locally but are not included in this re
 
 - `cleaned_uber_lyft_dataset.csv` — 49.9 MB
 - `stage2_X_train.csv` — 48.1 MB
-- Original raw dataset (Kaggle source)
+- Original raw dataset (Kaggle source - https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices)
 
 Python scripts and analytical outputs are included to provide transparency into the complete analytical workflow.
 
